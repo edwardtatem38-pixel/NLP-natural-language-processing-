@@ -1,4 +1,4 @@
-💻# NLP-natural-language-processing-
+# NLP-natural-language-processing- 💻
 end to end nlp pipeline for twitter sentiment classification, featuring GloVe and Keras/TensoFlow
 
 🐦 Deep Learning Sentiment Analysis of Tweets
