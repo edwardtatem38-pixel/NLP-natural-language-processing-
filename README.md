@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1Y309NPfZAm0-BzKbJsMSyvHP7H1uQySq?authuser=1)
+(https://colab.research.google.com/drive/1Y309NPfZAm0-BzKbJsMSyvHP7H1uQySq?authuser=1.ipynb)
 # NLP-natural-language-processing- 💻
 end to end nlp pipeline for twitter sentiment classification, featuring GloVe and Keras/TensoFlow
 
